@@ -1,0 +1,9 @@
+gym
+pygame
+neat-python
+numpy
+gym[atari]
+gym[accept-rom-license]
+opencv-python
+swig
+gym[box2d]
